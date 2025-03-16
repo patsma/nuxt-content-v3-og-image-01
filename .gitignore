@@ -12,3 +12,6 @@ sw.*
 .output
 *.data*
 .data/
+
+# Local Netlify folder
+.netlify
