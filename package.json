@@ -1,0 +1,20 @@
+{
+  "name": "nuxt-og-image-x-nuxt-content",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "generate": "nuxi generate",
+    "preview": "nuxi preview"
+  },
+  "devDependencies": {
+    "@nuxt/content": "^3.2.2",
+    "nuxt": "^3.15.4",
+    "nuxt-og-image": "^4.1.4"
+  },
+  "dependencies": {
+    "sqlite3": "^5.1.7",
+    "unenv": "^1.10.0"
+  }
+}
